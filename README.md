@@ -20,4 +20,10 @@ Jérémy ALVES-NETO
 
 ## Comparatif iOS/Android
 
-[Ajouter la composition du groupe (Prénom, Nom) ici]
+Quentin Labeyrie
+
+Valentin Eutrope
+
+Nejmeddine Gadacha
+
+Elias Mouawad
